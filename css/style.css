@@ -1,0 +1,32 @@
+*{ margin: 0;
+padding: 0;
+text-align: center;
+}
+.layout{
+    overflow: hidden;
+}
+.menu{
+    height: 600px;
+    width: 15%;
+    background-color: rgb(183, 213, 240);
+    float: left;
+}
+.right_section{
+    height: 600px;
+    width:85%;
+    float: left;
+
+}
+.header{
+    height: 15%;
+    background-color: crimson;
+    color: white;
+}
+.content{
+    height: 70%;
+    background-color: darkgreen;
+}
+.footer{
+    height: 15%;
+    background-color: darkviolet;
+}
